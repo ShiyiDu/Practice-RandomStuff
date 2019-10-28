@@ -1,0 +1,6 @@
+/Users/shiyidu/Desktop/C#/YorkU2019_2/bin/Debug/YorkU2019_2.exe
+/Users/shiyidu/Desktop/C#/YorkU2019_2/bin/Debug/YorkU2019_2.pdb
+/Users/shiyidu/Desktop/C#/YorkU2019_2/obj/x86/Debug/YorkU2019_2.csprojAssemblyReference.cache
+/Users/shiyidu/Desktop/C#/YorkU2019_2/obj/x86/Debug/YorkU2019_2.csproj.CoreCompileInputs.cache
+/Users/shiyidu/Desktop/C#/YorkU2019_2/obj/x86/Debug/YorkU2019_2.exe
+/Users/shiyidu/Desktop/C#/YorkU2019_2/obj/x86/Debug/YorkU2019_2.pdb

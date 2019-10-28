@@ -1,0 +1,6 @@
+/Users/shiyidu/Desktop/C#/MedianTest/obj/x86/Debug/MedianTest.csprojAssemblyReference.cache
+/Users/shiyidu/Desktop/C#/MedianTest/obj/x86/Debug/MedianTest.csproj.CoreCompileInputs.cache
+/Users/shiyidu/Desktop/C#/MedianTest/bin/Debug/MedianTest.exe
+/Users/shiyidu/Desktop/C#/MedianTest/bin/Debug/MedianTest.pdb
+/Users/shiyidu/Desktop/C#/MedianTest/obj/x86/Debug/MedianTest.exe
+/Users/shiyidu/Desktop/C#/MedianTest/obj/x86/Debug/MedianTest.pdb
